@@ -47,15 +47,9 @@ The analysis focuses on the following business questions:
 
 ---
 
-## Dataset
+The raw dataset is not included in this repository.
 
-The raw dataset is **not stored in this repository**.
-
-The original dataset can be downloaded from the source below:
-
-### Dataset Download
-
-[Download the Original Dataset](https://wscubetechpvtltd-my.sharepoint.com/:u:/g/personal/ayushi_jain_wscubetech_com/IQAD1NvRrKqwXTw4A25maP-aAZ5ji45G4VvJBCLiSTexSUK?e=6KduUu)
+The dataset was provided as part of the original project resources and was used for the complete SQL and Power BI analysis. The original external download link is no longer publicly accessible, so the dataset has not been redistributed through this repository.
 
 ### Dataset Overview
 
