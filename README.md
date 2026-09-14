@@ -47,6 +47,8 @@ The analysis focuses on the following business questions:
 
 ---
 
+## Dataset
+
 The raw dataset is not included in this repository.
 
 The dataset was provided as part of the original project resources and was used for the complete SQL and Power BI analysis. The original external download link is no longer publicly accessible, so the dataset has not been redistributed through this repository.
